@@ -20,7 +20,7 @@ A simple and intuitive task management app built using React Native and Expo. Th
 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/kishan-7077/expo-task-manager.git  
+   git clone https://github.com/kishan-7077/TaskManagerApp.git  
    cd expo-task-manager  
    ```  
 
